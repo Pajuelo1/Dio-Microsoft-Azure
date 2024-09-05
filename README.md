@@ -6,6 +6,6 @@ Repositório do **Bootcamp Microsoft Azure Essentials.** Este repositório cont�
 
 Projetos e desafios que estão sendo realizados ao longo do bootcamp:
 
-- **Desafio 1**: [Criação de uma VM no Azure](./Desafio01-Criação-de-VMs-em-Azure.md)
+- **Desafio 1**: [Criação de uma VM no Azure](./Desafio-Máquinas-Virtuais-Azure.md)
 
 
