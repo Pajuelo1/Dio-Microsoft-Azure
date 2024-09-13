@@ -1,0 +1,30 @@
+Criação de GRupo de Recursos e Rede Virtual
+
+A seguir, um guia passo a passo para criar Grupo de Recursos, Rede Virtual.
+
+Configuração Usando o Portal do Azure
+
+-  1. Portal do Azure
+
+Faça login no [Portal do Azure](https://portal.azure.com).
+
+-  2. Criação do Grupo de Recursos 
+
+  1. No painel do Azure pesquise por "Grupos de Recursos".
+  2. Clique em "Criar" para iniciar a criação de um grupo de recursos.
+  3. Preencha os seguintes campos:
+   - Nome do Grupo de Recursos: Nomeie o grupo como desejar.
+   - Região: Escolha a região para o grupo. Recomenda-se usar a mesma região para todos os recursos relacionados para reduzir latência e custos.
+  4. Clique em "Revisar + Criar" e depois em "Criar" para finalizar.
+
+
+-  3. Criação da Rede Virtual 
+
+  1. No painel do Azure, pesquise por “Redes Virtuais”.
+  2. Clique em "Criar" para configurar uma rede virtual.
+  3. Preencha os campos:
+   - Nome da Rede Virtual: Escolha um nome para identificar a rede.
+   - Grupo de Recursos: Selecione o grupo de recursos que foi criado.
+   - Região: Selecione a mesma região do grupo de recursos.
+   - Endereço IP: Defina o intervalo de endereços IP para a rede.
+  4. Clique em "Revisar + Criar" e depois em "Criar" para finalizar.
